@@ -1,0 +1,2 @@
+terminals: ["yarn install && yarn dev"]
+tabs: ["app/routes/index.jsx", "app/entry.client.jsx"]
